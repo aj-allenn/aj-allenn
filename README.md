@@ -1,8 +1,13 @@
  Hi 👋, I'm Allen John
+ 
 🚀 MERN Stack Developer
+
 📍 Pathanamthitta, Kerala, India
+
 📞 +91 6238213073
+
 📧 johnallenjohn2004@gmail.com
+
 🌐 Portfolio: projectportfolio-black.vercel.app
 
 
