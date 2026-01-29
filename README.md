@@ -1,19 +1,14 @@
-Hi 👋, I'm Allen John
-
+ Hi 👋, I'm Allen John
 🚀 MERN Stack Developer
-
 📍 Pathanamthitta, Kerala, India
-
 📞 +91 6238213073
-
 📧 johnallenjohn2004@gmail.com
-
 🌐 Portfolio: projectportfolio-black.vercel.app
 
 
+# 💫 About Me:
+MERN Stack Developer with hands-on experience in frontend and backend development. <br>Skilled in building responsive web applications using React.js, Next.js, Node.js, Express.js, and MongoDB. <br>Experienced in RESTful API development, JWT-based authentication, CRUD operations, and writing clean, scalable code.<br> A collaborative team player with strong problem-solving skills and a passion for modern web technologies.
 
-
-[ReadMe (1).md](https://github.com/user-attachments/files/24949297/ReadMe.1.md)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allen-john-5b9629289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnallenjohn2004@gmail.com) 
