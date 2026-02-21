@@ -1,6 +1,6 @@
-                                                                       Hi 👋, I'm Allen John
+                                                       Hi 👋, I'm Allen John
  
-                                                                     🚀 MERN Stack Developer
+                                                      🚀 MERN Stack Developer
                       📍 Pathanamthitta, Kerala, India 📧 johnallenjohn2004@gmail.com🌐 Portfolio: projectportfolio-black.vercel.app
 
 
